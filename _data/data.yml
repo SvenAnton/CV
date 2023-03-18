@@ -40,172 +40,141 @@ sidebar:
         - item: Brewing
           link:
 
-        - item: History of art
+        - item: History of Art
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      When practicing as a lawyer in a field of data protection and IT law,
+      I did always do my homework and learn carefully about the technology
+      under concern. Soon I ended up in technical meetings, where I could discuss
+      data protection directly with architects and engineers. Curious as I am, I
+      guess it was just a matter of time till I try to decide software engineering
+      myself...
+
+      So here I am today, a lawyer that became a software engineer.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master's degree, Law
+        university: University of Tartu
+        time: 2016 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Law school as law school, no specialization.
+          I studied half-an-year abroad in University of Iceland,
+          focusing on international and EU environmental law.
+          The other half of that school year, I studied philosophy
+          and psychology in my home university.
+          Activities and societies:
+           - For my master thesis I was awarded Special prize of by Estonian Academy of Sciences.
+           - At my studies I participated the International Criminal Court's moot court competition as a
+          member of Estonian national team.
+      - degree: BA, Law
+        university: University of Tartu
+        time: 2013 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          ...
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: DevOps Engineer
+        time: Aug 2022 - Present
+        company: Nortal AS, Tallinn
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Currently (since Dec 2022) I have been working in a project that prepares and
+          conducts cyber exercises (a company previously known as Talgen).
+
+          Generally, working in different projects means that I have to spend a lot of time 
+          consulting architects, product managers and owners about technical
+          matters related to operations and information systems.
+          
+          Moreover, I have to help to plan and manage work related to product
+          lifecycle management (e.g. release strategy) and systems engineering
+          (e.g. cost reductions, scaling). This includes managing the backlog
+          of tasks for system engineers and aligning work with product teams.
+
+          As a result the role is more demanding on the engineering point
+          of view since I am expected to know and manage a variety of different
+          solutions that would fit the specific needs of the customer.
+
+          
+      - role: Software & DevOps Engineer
+        time: Oct 2020 - Aug 2022
+        company: EveryPay AS, Tallinn
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I started working in EveryPay as a full-stack developer.
+          My contribution to improve the development environment proved
+          my skills as system operations engineer and I was promoted to
+          DevOps Engineer position, where I were mainly responsible for 
+          improving and maintaining CI/CD and application infrastructure in AWS cloud.
+
+          Over time I was already trusted with additional duties common to senior engineers,
+          such as:
+           - architecting changes for the infrastructure
+           - designing CI/CD and development workflow
+           - creating data pipelines
+          
+          In addition to professional responsibilities, I was a mentor to junior DevOps
+          engineer that joined the team in 2022.
+      - role: Lawyer
+        time: Jun 2018 - May 2020
+        company: AS SEB Pank, Tallinn
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          Fields of practice:
+            - data protection (GDPR);
+            - IT-law, including e-commerce and online banking;
+            - contracts and procurement;
+            - competition law;
+            - counseling in other smaller matters like marketing and organizational matters.
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Sample
+#         link: "#hook"
+#         tagline: "... sample sample ..."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   Publications in journals
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Eesti kultuuri ja rahvuse mõiste põhiseaduse preambulis
+        link: https://juridica.ee/article.php?uri=2020_riigi_iguse_aastaraamat_2020_eesti_kultuuri_ja_rahvuse_m_iste_p_hiseaduse_preambulis
+        authors: Sven Anton
+        conference: Riigiõiguse aastaraamat, 2020
+      - title: Õiguse kui kirjanduse tõlgendamine. Arvustus Ronald Dworkini raamatule „Õiguse impeerium“ (tõlkinud Piret Luiga, Valgus 2015)
+        link: https://juridica.ee/article.php?uri=2017_8_iguse_kui_kirjanduse_t_lgendamine_arvustus_ronald_dworkini_raamatule_iguse_impeerium_t_lkinud
+        authors: Sven Anton
+        conference: Juridica, 2017/8
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: AWS
+        level: 90%
+
+      - name: GDPR & Data Protection
+        level: 90%
+
+      - name: Information Security
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: MS Word & Excel
+        level: 90%
+
+
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
