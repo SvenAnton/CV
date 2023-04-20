@@ -54,9 +54,15 @@ career-profile:
       myself...
 
       So here I am today, a lawyer that became a software engineer.
+
+      **NB!** Please look at my [LinkedIn profile](https://www.linkedin.com/in/svenanton/)
+      for more details about my career, projects, skills, reccomendations etc.
 education:
     title: Education
     info:
+      - degree: Master's degree, Computer Science (not finished)
+        university: Tallinn University of Technology
+        time: 2016 - 2019
       - degree: Master's degree, Law
         university: University of Tartu
         time: 2016 - 2019
@@ -128,7 +134,7 @@ experiences:
             - competition law;
             - counseling in other smaller matters like marketing and organizational matters.
 # projects:
-#     title: Projects
+#     title: Kingfisher LegalTech Project
 #     intro: >
 #       You can list your side projects in this
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -156,23 +162,42 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Project Management
+        level: 90%
+
+      - name: Agile Methologies
+        level: 85%
+
+      - name: Product & Process Management
+        level: 85%
+
       - name: Python
+        level: 95%
+
+      - name: Ansible
         level: 95%
 
       - name: AWS
         level: 90%
 
-      - name: GDPR & Data Protection
+      - name: Docker
         level: 90%
 
-      - name: Information Security
+      - name: Terraform
         level: 85%
 
-      - name: Linux
-        level: 70%
+      - name: Kubernetes
+        level: 80%
 
-      - name: MS Word & Excel
-        level: 90%
+      - name: Linux
+        level: 80%
+
+      - name: Bash scripting
+        level: 80%
+
+      - name: Information Security
+        level: 80%
+
 
 
 
